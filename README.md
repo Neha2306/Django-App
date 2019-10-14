@@ -23,3 +23,5 @@
 </ul>
 <h2>DBMS</h2>
 <p>PostgresSQL</p>
+<h2>Validation</h2>
+<p>JavaScript Validations.</p>
