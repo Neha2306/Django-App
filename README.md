@@ -8,7 +8,7 @@
   <li>Need to install python in your system. Download it from here: </br> https://www.python.org/downloads/</li>
   <li>After complete intallation, open CMD and type </br> <b>python --version</b> (to check python version) </li>
   <li><b>pip --version</b></li>
-  <li>Do not install Django directly other wise it will br available for entire system not for the specific app OR project</li>
+  <li>Do not install Django directly other wise it will be available for entire system not for the specific App OR Project</li>
   <li>So new lets create the Virtual Environment first. For this type </br> <b>pip install virtualenvwrapper-win</b></li>
   <li><b>mkvirtualenv test</b> (Environment Name Ex: test)</li>
   <li><b>workon test</b> (To start Environment)</li>
