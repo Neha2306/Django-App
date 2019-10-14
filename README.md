@@ -1,8 +1,8 @@
 # Django-App
 <h2>About</h2> </br>
-<p>Django is a high-level Python Web framework which is actully based on MVT(Model View Template) little bit different from MVC (Model View Template). In MVC we need to manage the Controller but MVT django do it.</p> </br>
-<p>First Python setup is required to work with django.</p> </br>
-<p>Here is some commands to install the complete setup of "python with django".</p> </br>
+<p>Django is a high-level Python Web Framework which is actully based on MVT(Model View Template) little bit different from MVC (Model View Controller). In MVC we need to manage the Controller but MVT django do it.</p> </br>
+<p>First Python setup is required to work with Django.</p> </br>
+<p>Here is some commands to install the complete setup of "Python with Django".</p> </br>
 <h2>Commands</h2> </br>
 <ul>
   <li>Need to install python in your system. Download it from here: </br> https://www.python.org/downloads/</li>
@@ -12,7 +12,7 @@
   <li>So new lets create the Virtual Environment first. For this type </br> <b>pip install virtualenvwrapper-win</b></li>
   <li><b>mkvirtualenv test</b> (Environment Name Ex: test)</li>
   <li><b>workon test</b> (To start Environment)</li>
-  <li>Now install django in this Virtual Environment, type </br> <b>pip install django</b></li>
+  <li>Now install Django in this Virtual Environment, type </br> <b>pip install django</b></li>
   <li><b>django-admin --version</b> (to check django version)</li>
   <li><b>mkdir projects</b> (Project folder name Ex: projects)</li>
   <li><b>cd projcts</b></li>
